@@ -1,0 +1,19 @@
+{
+  "name": "video-search-engine",
+  "version": "1.0.0",
+  "description": "video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmashankarChauhan/Vedio-Search-Engine.git"
+  },
+  "author": "Umashankar Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmashankarChauhan/Vedio-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/UmashankarChauhan/Vedio-Search-Engine#readme"
+}
